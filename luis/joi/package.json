@@ -1,0 +1,16 @@
+{
+  "name": "joi",
+  "version": "1.0.0",
+  "description": "Vou deixar um exemplo de como você pode usar o Joi para validar seus dados.",
+  "main": "index.js",
+  "dependencies": {
+    "joi": "^17.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "joi-example":"node ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
