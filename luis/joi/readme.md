@@ -3,6 +3,6 @@ Vou deixar um exemplo de como você pode usar o Joi para validar seus dados.
 No arquivo user-schema.js tem a estrutura/modelagem do objeto.
 E no index.js temos a função que vai validar o objeto.
 
-Pra rodar esse exemplo basta executar:
+Pra rodar esse exemplo basta executar esses comandos dentro da pasta:
 
 `npm run joi-example`
